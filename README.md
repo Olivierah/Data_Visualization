@@ -1,6 +1,8 @@
 # (Under construction)
 
-# Data visualization with Seaborn
+# Tip_Data_Sample
+
+## Data visualization with Seaborn
 
 Com base em uma amostra de dados de gorjetas de outros países, onde não existe uma taxa fixa, vamos avaliar quatro tópicos:
 
@@ -16,3 +18,4 @@ Based on a tip data sample from other countries where there is no flat-rate we w
 - 2 - Check the difference between the tip values of those who ordered and did not order dessert
 - 3 - Check if the week's day changes the tip value
 - 4 - Check the day's time that tip is higher 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
