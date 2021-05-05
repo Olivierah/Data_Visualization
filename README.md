@@ -1,7 +1,6 @@
 # (Under construction)
 
-# Seaborn_Package
- Data visualization with Seaborn
+# Data visualization with Seaborn
 
 Com base em uma amostra de dados de gorjetas de outros países, onde não existe uma taxa fixa, vamos avaliar quatro tópicos:
 
