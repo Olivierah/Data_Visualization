@@ -1,5 +1,3 @@
-# (Under construction)
-
 # Tip_Data_Sample 
 
 ## Data visualization with Seaborn
