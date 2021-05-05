@@ -1,8 +1,10 @@
 # (Under construction)
 
-# Tip_Data_Sample
+# Tip_Data_Sample 
 
 ## Data visualization with Seaborn
+
+#### Descição do projeto:
 
 Com base em uma amostra de dados de gorjetas de outros países, onde não existe uma taxa fixa, vamos avaliar quatro tópicos:
 
@@ -11,6 +13,8 @@ Com base em uma amostra de dados de gorjetas de outros países, onde não existe
 - 3 - Verificar se o dia da semana interfere no valor da gorjeta
 - 4 - Verificar em qual hora do dia a gorjeta é maior
 
+
+Project description:
 
 Based on a tip data sample from other countries where there is no flat-rate we will evaluate four topics:
 
