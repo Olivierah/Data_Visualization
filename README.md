@@ -1,7 +1,5 @@
 # Tip_Data_Sample 
 
-## Data visualization with Seaborn
-
 #### Descição do projeto:
 
 Com base em uma amostra de dados de gorjetas de outros países, onde não existe uma taxa fixa, vamos avaliar quatro tópicos:
