@@ -2,13 +2,17 @@
 
 ![Preview-Screens](graphics/tips.png)
 
-#### Used packages:
-- Pandas
-- Matplotlib 
-- Seaborn 
-- scipy
+## Why?
 
-#### Project description:
+This project is part of my personal portfolio, so any feedback or suggestion that may contribute to my growth as a Data Scientist will be very welcome.
+
+## Used packages:
+- [Pandas](https://pandas.pydata.org/docs/) - For data manipulation
+- [Matplotlib](https://matplotlib.org/) - For data visualization (graph plot)
+- [Seaborn](https://seaborn.pydata.org/) - For data visualization (custom graphics plot)
+- [scipy](https://docs.scipy.org/doc/) - For the use of statistical methods such as Hypothesis Testing.
+
+## Project description:
 
 Based on a tip data sample from other countries where there is no flat-rate we will evaluate four topics:
 
@@ -17,14 +21,15 @@ Based on a tip data sample from other countries where there is no flat-rate we w
 - 3 - Check if the week's day changes the tip value
 - 4 - Check the day's time that tip is higher 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Sobre o projeto (pt-BR 🇧🇷).**
 
-#### Bibliotecas utilizadas no projeto:
-- Pandas
-- Matplotlib 
-- Seaborn 
-- scipy
+## Bibliotecas utilizadas no projeto:
+- [Pandas](https://pandas.pydata.org/docs/) - Para manipulação dos dados
+- [Matplotlib](https://matplotlib.org/) - Para visualização dos dados (plot de gráficos)
+- [Seaborn](https://seaborn.pydata.org/) - Para visualização dos dados (plot de gráficos customizados)
+- [scipy](https://docs.scipy.org/doc/) - Para utilização de métodos estatísticos como Teste de Hipótese
 
-#### Descição do projeto:
+## Descição do projeto:
 
 Com base em uma amostra de dados de gorjetas de outros países, onde não existe uma taxa fixa, vamos avaliar quatro tópicos:
 
