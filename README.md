@@ -1,5 +1,7 @@
 # Tip_Data_Sample 
 
+![Preview-Screens](Tip_Data_Analysis/graphics/tips.png)
+
 #### Used packages:
 - Pandas
 - Matplotlib 
