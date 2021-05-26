@@ -4,7 +4,7 @@
 
 ## Why?
 
-This project is part of my personal portfolio, so any feedback or suggestion that may contribute to my growth as a Data Scientist will be very welcome.
+This project is part of my personal portfolio, so any feedback or suggestion that can contribute to my growth and improve my data science skills will be most welcome.
 
 ## Used packages:
 - [Pandas](https://pandas.pydata.org/docs/) - For data manipulation
